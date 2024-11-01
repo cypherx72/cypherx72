@@ -1,0 +1,6 @@
+-👋 Hi, I’m @cypherx72
+-👀 I’m interested in: Data Science, especially using data to drive insights and make impactful decisions.
+-🌱 I’m currently learning: Python, Power BI, Tableau, and honing my data visualization skills.
+-💞️ I’m looking to collaborate on: Open-source projects and building data-driven applications from scratch.
+-📫 How to reach me: obichitas03@gmail.com
+-😄 Fun fact: I’m a huge basketball fan—love watching and playing games!
